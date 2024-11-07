@@ -7,7 +7,7 @@
     },
     "license":"MIT",
     "version": "1.0.0",
-    "description": "Rehost of classic, a lua class library",
+    "description": "Rehost of classic, a lua OOP library",
     "icon": "default",
     "runtime": "Lua5.1",
     "frameworks": ["*"],
